@@ -1,13 +1,13 @@
 Title: A journal paper about bioinformatics
 
-Author: S Boardman, S Bhaskar
+Author: S Boardman, ,J Dorian, S Bhaskar
 
-Abstract:
+Abstract: TO DO
 
 Introduction:
 
 Data: I still need to collect some data!
 
-Conculsion: Something profound
+Conclusion: Something profound
 
 References: Ref 1
