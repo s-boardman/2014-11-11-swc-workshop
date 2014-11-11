@@ -1,11 +1,13 @@
-Title: A paper about bioinformatics
+Title: A conference paper about bioinformatics
 
-Author: S Boardman
+Author: S Boardman, J Dorian
 
-Introduction
+Abstract: TO DO
+
+Introduction:
 
 Data: I still need to collect some data!
 
-Conculsion
+Conculsion:
 
 References: Ref 1
