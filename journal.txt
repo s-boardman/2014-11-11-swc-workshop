@@ -1,13 +1,13 @@
 Title: A journal paper about bioinformatics
 
-Author: S Boardman, ,J Dorian, S Bhaskar
+Author: S Boardman, , J Dorian, S Bhaskar, K McCaffrey
 
-Abstract: TO DO
+Abstract: TO DO, tomorrow...
 
 Introduction: I shall introduce the experiment that I am writing about.
 
 Data: I still need to collect some data!
 
-Conclusion: Something profound
+Conclusion: Something profound, and epic
 
 References: Ref 1
