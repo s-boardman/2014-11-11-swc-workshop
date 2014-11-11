@@ -6,7 +6,7 @@ Abstract: TO DO, tomorrow...
 
 Introduction: I shall introduce the experiment that I am writing about.
 
-Data: I still need to collect some data!
+Data: I still need to collect some data! Jamie has some data for me, I must collect it soon.
 
 Conclusion: Something profound, and epic
 
