@@ -1,11 +1,13 @@
-Title: A paper about bioinformatics
+Title: A journal paper about bioinformatics
 
-Author: S Boardman
+Author: S Boardman, S Bhaskar
 
-Introduction
+Abstract:
+
+Introduction:
 
 Data: I still need to collect some data!
 
-Conculsion
+Conculsion: Something profound
 
 References: Ref 1
